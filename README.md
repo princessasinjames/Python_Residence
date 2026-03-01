@@ -1,4 +1,4 @@
-# Python_Residence
+# python_residence
 - Purpose: A python file to accept, validate, and return residences.
 - Accepts a neighborhood
 - Then accepts a building number from 100 to 1000.
